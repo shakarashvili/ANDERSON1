@@ -6,3 +6,7 @@ public class Lesson1 {
         System.out.printf("Hello georga");
     }
 }
+
+
+
+
