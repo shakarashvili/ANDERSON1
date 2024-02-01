@@ -4,6 +4,18 @@ import java.util.Arrays;
 import java.util.Random;
 
 public class Lesson_2 {
+    public static void main(String[] args) {
+
+        exercise1();
+        exercise2();
+        exercise3();
+        exercise4();
+        exercise5();
+        exercise6();
+        exercise7();
+        exercise8();
+
+    }
 
     public static void exercise1(){   // exercise 1
         int a = 7;
@@ -108,16 +120,5 @@ public static void exercise7(){ // exercise 7
         System.out.println(Arrays.toString(array4));
     }
 
-    public static void main(String[] args) {
 
-        exercise1();
-        exercise2();
-        exercise3();
-        exercise4();
-        exercise5();
-        exercise6();
-        exercise7();
-        exercise8();
-
-    }
 }
