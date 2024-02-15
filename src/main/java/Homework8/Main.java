@@ -1,4 +1,4 @@
-package Homework7;
+package Homework8;
 
 import java.util.HashMap;
 import java.util.*;
